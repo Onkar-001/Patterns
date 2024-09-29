@@ -1,2 +1,2 @@
 # Patterns
-Pattern Using Java
+Patterns Using Java
